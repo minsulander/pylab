@@ -8,4 +8,4 @@ class Orange(Fruit):
 
 class Banana(Fruit):
 	def color(self):
-		return "yellow"
+		return "blue"
